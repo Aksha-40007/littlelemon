@@ -2,6 +2,8 @@
 
 https://littlelemon-zvod.onrender.com/
 
+###### kindly wait till photos are loaded in live demo
+
 ### Steps to run project on localhost
 
 ### Step 1: npm install
