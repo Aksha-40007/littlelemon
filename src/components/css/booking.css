@@ -1,0 +1,62 @@
+.reservation{
+  position: relative;
+  overflow: hidden;
+  height: 110vh;
+  left:30%;
+  width: 500px;
+  /* box-shadow: 6px 6px 5px 10px lightblue; */
+  box-shadow:  4px 4px 2px 7px #dadada;
+  margin: 1rem;
+  padding-top: 0.5rem;
+}
+
+.reserve-table {
+    
+    text-align: center;
+    overflow: hidden;
+  }
+    
+  .reserve-header-text {
+    background-color: #495e57;
+    color:#ffffff;
+    top: 0%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    border-radius: 2rem;
+    padding: 1.5rem 1rem;
+  }
+
+.reservation-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  text-align: left;
+}
+
+.reservation-form > div {
+  margin-bottom: 0.5rem;
+}
+
+input{
+  width: 250px;
+}
+
+select{
+  width: 250px;
+}
+
+.centertext{
+text-align: center;
+}
+
+.confirmbooking{
+  color: #fff;
+  background-color: #f4ce14;
+    border-radius: 1rem;
+    font-family: Karla;
+    font-size: 2rem;
+    padding: .5rem 1rem;
+    border: none;
+}
